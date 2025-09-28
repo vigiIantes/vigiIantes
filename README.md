@@ -9,10 +9,4 @@
 </p>
 
 
-## read my rentry and sign my ata this all a wip still ok? im just keeping these checks whats below this btw
-
-
-
-<p align="center">
-  <img src="https://i.ibb.co/99yVVS2K/IMG-4046.png" />
-</p>
+### read my rentry and sign ata ok this girhub is still a wip
